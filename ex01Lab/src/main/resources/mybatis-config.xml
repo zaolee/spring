@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+	<typeAliases>
+		<package name="org.zerock.domain" />
+	</typeAliases>
+	<!-- 이게 경로 쉽게 적어도 알아서 찾을수 있게끔 도와주는거(보트매퍼xml에서) -->
+
+
+</configuration>
+
